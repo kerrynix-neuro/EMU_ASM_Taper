@@ -55,4 +55,4 @@ Electronic Health Records data is available on Epilepsy.Science.
 [](https://github.com/kerry-nix/EMU_ASM_Taper#contact-us)
 
 Any questions should be directed to the corresponding author. Contact information is provided below:
-[Kerry C. Nix](mailto:kerrynix@pennmedicine.upenn.edu)
+[Kerry C. Nix](mailto:kerry.nix@pennmedicine.upenn.edu)
